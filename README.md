@@ -60,16 +60,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahm19edhasan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahm19edhasan&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=ahm19edhasan&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahm19edhasan&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahm19edhasan&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
