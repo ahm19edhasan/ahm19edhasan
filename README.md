@@ -60,11 +60,18 @@
 ### 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,nestjs,nodejs,express,vue,ts,js,html,css,tailwind,postgres,mysql,mongodb,redis,docker,git,postman,linux&perline=10" alt="My Skills" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=ahm19edhasan&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahm19edhasan&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img src="https://komarev.com/ghpvc/?username=ahm19edhasan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/ah​m19edhasan?tab=followers">
+    <img src="https://img.shields.io/github/followers/ahm19edhasan?label=Followers&style=social" alt="followers" />
+  </a>
 </p>
 
 ---
