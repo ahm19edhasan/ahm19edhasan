@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmedhasan689&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://github.com/ahmedhasan689?tab=followers">
-    <img src="https://img.shields.io/github/followers/ahmedhasan689?label=Followers&style=social" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=ahm19edhasan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/ahm19edhasan?tab=followers">
+    <img src="https://img.shields.io/github/followers/ahm19edhasan?label=Followers&style=social" alt="followers" />
   </a>
 </p>
 
