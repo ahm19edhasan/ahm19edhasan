@@ -69,7 +69,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahm19edhasan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://github.com/ah​m19edhasan?tab=followers">
+  <a href="https://github.com/ahm19edhasan?tab=followers">
     <img src="https://img.shields.io/github/followers/ahm19edhasan?label=Followers&style=social" alt="followers" />
   </a>
 </p>
