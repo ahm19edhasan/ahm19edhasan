@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahmed Hasan Abu Hatab</h1>
-<h3 align="center">Full-Stack Developer - Laravel · NestJS · Vue.js</h3>
+<h3 align="center">Full-Stack Developer - Laravel · NodeJS · Vue.js</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Backend+Engineer+%7C+Laravel+%26+NestJS;Frontend+with+Vue.js;Clean+Code+%26+Scalable+APIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Backend+Engineer+%7C+Laravel+%26+NodeJS;Frontend+with+Vue.js;Clean+Code+%26+Scalable+APIs" alt="Typing SVG" />
 </p>
 
 <p align="center">
