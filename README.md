@@ -17,7 +17,7 @@
 ### 🧑‍💻 About Me
 
 - 🔭 I build **scalable backend systems** and **modern web apps**
-- ⚡ Backend with **Laravel (PHP)** and **Node.js / NestJS(TypeScript)**
+- ⚡ Backend with **Laravel (PHP)** and **Node.js / NestJS (TypeScript)**
 - 🎨 Frontend with **Vue.js**
 - 🗄️ Comfortable with **SQL & NoSQL** databases
 - 📫 Reach me at **ahm19edhasan.dev@gmail.com**
