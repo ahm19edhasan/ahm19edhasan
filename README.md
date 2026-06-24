@@ -20,7 +20,7 @@
 - ⚡ Backend with **Laravel (PHP)** and **Node.js / NestJS (TypeScript)**
 - 🎨 Frontend with **Vue.js**
 - 🗄️ Comfortable with **SQL & NoSQL** databases
-- 📫 Reach me at **ahm19edhasan.dev@gmail.com**
+- 📫 Reach me at **ahm19edhasan.biz@gmail.com**
 - 🌱 Always learning and improving system design & clean architecture
 
 ---
